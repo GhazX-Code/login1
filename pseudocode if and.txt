@@ -1,0 +1,13 @@
+pseudocode if and
+
+mulai
+
+input username
+input password
+
+if username = "admin" and password = "admin123" login ke page admin
+else if username = "dosen" and password = "dosen111" login ke page dosen
+else if username = "mahasiswa" dan password = "mahasiswa123" login ke page mahasiswa
+else tampilkan "username dan password salah"
+
+selesai
